@@ -19,12 +19,14 @@ const SearchFilter: React.FC = () => {
   const { theme } = useTheme();
   const { filterState, setFilterState, resetFilters } = useFilter();
 
-  const handlePriceChange = (event: Event, newValue: number | number[]) => {
+  const handlePriceChange = (_, newValue: number | number[]) => {
+
     setFilterState((prev) => ({
       ...prev,
       priceRange: newValue as [number, number],
     }));
   };
+  
 
   const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setFilterState((prev) => ({

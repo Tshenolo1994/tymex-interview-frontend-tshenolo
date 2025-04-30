@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Header from '../components/Header';
 import SearchFilter from '../components/SearchFilter';
 import NFTGrid from '../components/NFTGRid';
