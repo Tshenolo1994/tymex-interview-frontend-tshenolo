@@ -19,10 +19,10 @@ const SearchFilter: React.FC = () => {
   const { theme } = useTheme();
   const { filterState, setFilterState, resetFilters } = useFilter();
 
-  const handlePriceChange = (event: Event, newValue: number | number[]) => {
+  const handlePriceChange = (value: number | number[]) => {
     setFilterState((prev) => ({
       ...prev,
-      priceRange: newValue as [number, number],
+      priceRange: value as [number, number],
     }));
   };
   
@@ -91,7 +91,7 @@ const SearchFilter: React.FC = () => {
         <Box className="flex flex-col gap-2">
           <Slider
             value={filterState.priceRange}
-            onChange={handlePriceChange}
+            onChange={(_, value) => handlePriceChange(value)}
             valueLabelDisplay="auto"
             valueLabelFormat={(value) => `${value} ETH`}
             min={0.01}
