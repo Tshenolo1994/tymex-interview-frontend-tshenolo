@@ -1,0 +1,264 @@
+{
+  "nfts": [
+    {
+      "id": 1,
+      "name": "Assassin",
+      "image": "https://i.imgur.com/2x98dxk.png",
+      "tier": "epic",
+      "price": 4.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 2,
+      "name": "The DJ",
+      "image": "https://i.imgur.com/TXAmWcb.png",
+      "tier": "legendary",
+      "price": 7.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 3,
+      "name": "Neon Guy",
+      "image": "https://i.imgur.com/pdkgU5h.png",
+      "tier": "rare",
+      "price": 6.49,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 4,
+      "name": "Mafia England",
+      "image": "https://i.imgur.com/NtM8MO5.png",
+      "tier": "mythic",
+      "price": 8.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 5,
+      "name": "Basketball Girl",
+      "image": "https://i.imgur.com/dn8P1PR.png",
+      "tier": "common",
+      "price": 2.49,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 6,
+      "name": "Dragon Knight",
+      "image": "https://i.imgur.com/xy90Zxh.png",
+      "tier": "epic",
+      "price": 5.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 7,
+      "name": "Space Pirate",
+      "image": "https://i.imgur.com/AK6jkVs.png",
+      "tier": "legendary",
+      "price": 9.49,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 8,
+      "name": "Cyber Samurai",
+      "image": "https://i.imgur.com/0Ra7I2E.png",
+      "tier": "mythic",
+      "price": 8.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 9,
+      "name": "Gladiator X",
+      "image": "https://i.imgur.com/JovJkDp.png",
+      "tier": "epic",
+      "price": 6.49,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 10,
+      "name": "Electric Warrior",
+      "image": "https://i.imgur.com/owgfOqT.png",
+      "tier": "rare",
+      "price": 4.29,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 11,
+      "name": "Fantasy Hero",
+      "image": "https://i.imgur.com/7Pxonwr.png",
+      "tier": "common",
+      "price": 3.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 12,
+      "name": "Steampunk Avenger",
+      "image": "https://i.imgur.com/6bcFqzx.png",
+      "tier": "epic",
+      "price": 5.49,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 13,
+      "name": "Pixel Monster",
+      "image": "https://i.imgur.com/QxL5JmJ.png",
+      "tier": "legendary",
+      "price": 10.00,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 14,
+      "name": "Urban Mystic",
+      "image": "https://i.imgur.com/vWzFcb2.png",
+      "tier": "rare",
+      "price": 4.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 15,
+      "name": "Wild Hunter",
+      "image": "https://i.imgur.com/yOdrf64.png",
+      "tier": "common",
+      "price": 2.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 16,
+      "name": "Silver Knight",
+      "image": "https://i.imgur.com/2XgFqkj.png",
+      "tier": "mythic",
+      "price": 9.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 17,
+      "name": "Cyber Queen",
+      "image": "https://i.imgur.com/K0YYHml.png",
+      "tier": "epic",
+      "price": 5.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 18,
+      "name": "Fire Mage",
+      "image": "https://i.imgur.com/z6eAWq9.png",
+      "category": "rare",
+      "price": 3.99,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 19,
+      "name": "Vampire Hunter",
+      "image": "https://i.imgur.com/XHs1j5y.png",
+      "tier": "legendary",
+      "price": 10.00,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "offline"
+      },
+      "isFavourite": true
+    },
+    {
+      "id": 20,
+      "name": "Dark Lord",
+      "image": "https://i.imgur.com/3e9hJr5.png",
+      "tier": "mythic",
+      "price": 9.49,
+      "creator": {
+        "name": "Ghozali_Ghozalu",
+        "profilePic": "https://i.imgur.com/9XnP8gT.png",
+        "status": "online"
+      },
+      "isFavourite": false
+    }
+  ]
+}
